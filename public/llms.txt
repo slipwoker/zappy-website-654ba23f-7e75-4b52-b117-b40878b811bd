@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+רוצים ללמוד אנגלית בקלות? פלטפורמה דיגיטלית מובילה ללמידת אנגלית למתחילים עם משאבים נגישים, שיעורים מותאמים אישית ותוצאות מוכחות. התחילו עכשיו!
+
+### שיעורים
+https://example.com/lessons
+גלו שיעורי אנגלית מובנים במיוחד למתחילים - מילים בסיסיות, דקדוק פשוט ושיחות יומיומיות. כל שיעור מותאם לקצב שלכם עם תרגול אינטראקטיבי מלא.
+
+### מחירון
+https://example.com/pricing
+בחרו את המסלול המושלם עבורכם! מנויים גמישים, מחירים שקופים וגישה מלאה לכל השיעורים. השקעה קטנה שתשנה את האנגלית שלכם לנצח. צפו במחירון!
+
+### צור קשר
+https://example.com/contact
+צוות המומחים שלנו כאן כדי לעזור! שאלות על הקורס, תמיכה טכנית או ייעוץ אישי - צרו קשר עכשיו ונחזור אליכם במהירות. אנחנו פה בשבילכם!
+
+### Products
+https://example.com/products
+המוצרים שלנו - אנגלית בקלות למתחילים
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - אנגלית בקלות למתחילים
+
+### Category
+https://example.com/category/:slug
+מוצרים - אנגלית בקלות למתחילים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
